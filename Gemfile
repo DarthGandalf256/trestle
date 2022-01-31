@@ -4,7 +4,7 @@ group :development do
   gem 'bcrypt'
   gem 'faker'
 end
-
+#test
 group :test do
   gem 'coveralls_reborn', require: false
   gem 'guard-rspec',      require: false
